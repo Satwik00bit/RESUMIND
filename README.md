@@ -13,7 +13,7 @@ This application is an AI-driven resume analyzer and ATS scoring platform design
 
 ## Start-up instructions
 
-*You can view the finished version of the site by clicking on the link:* (https://resumind.vercel.app/)
+*You can view the finished version of the site by clicking on the link:* (https://resumind-pi.vercel.app)
 
 #### If you want to run the site on your computer, follow these instructions:
 1. Make sure you have an LTS version of Node.js installed on your computer.
